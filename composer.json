@@ -1,10 +1,10 @@
 {
-    "name": "artox-lab/pho",
+    "name": "danielstjules/pho",
     "description": "A BDD testing framework",
     "keywords": [
         "bdd", "behavior driven development", "framework", "pho", "test", "unit"
     ],
-    "homepage": "https://github.com/artox-lab/pho",
+    "homepage": "https://github.com/danielstjules/pho",
     "license": "MIT",
     "authors": [
         {
@@ -17,8 +17,8 @@
         "php": ">=5.4.0"
     },
     "support": {
-        "issues": "https://github.com/artox-lab/pho/issues",
-        "source": "https://github.com/artox-lab/pho"
+        "issues": "https://github.com/danielstjules/pho/issues",
+        "source": "https://github.com/danielstjules/pho"
     },
     "autoload": {
         "psr-4": { "pho\\": "src/" }
