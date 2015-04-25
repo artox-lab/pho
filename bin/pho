@@ -26,4 +26,4 @@ if (!$composerInstall) {
 
 unset($composerInstall, $files, $file);
 
-require_once(realpath(dirname(__FILE__) . '/..') . '/artox-lab/pho/src/pho.php');
+require_once(realpath(dirname(__FILE__) . '/..') . '/src/pho.php');
